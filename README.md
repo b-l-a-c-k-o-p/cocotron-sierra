@@ -7,8 +7,13 @@ Make sure you have Git LFS installed — you’ll need it to pull down the binar
 If that isn't working for you, review earlier commits at this line number.
 
 ---
+*NOTE: GERHARD'S README has moved to -> README.txt
+*
+---
 
-GERHARD'S README -> README.txt
+In combination with an earlier version of Crossover, develop WIN32 applications using Cocoa on macOS with Xcode 8 and test without a Windows machine.
+
+https://www.codeweavers.com/crossover
 
 ![Cocotron and Crossover](Documentation/cocotron-launch-sierra.gif)
 
