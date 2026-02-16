@@ -4,12 +4,20 @@ Make sure you have Git LFS installed — you’ll need it to pull down the binar
 
 👉 Get it here: https://github.com/git-lfs/git-lfs/wiki/Installation
 
-If that isn't working for you, download here:
-https://b-l-a-c-k-o-p.com/Developer/cocotron.html
+If that isn't working for you, review earlier commits at this line number.
 
 ---
 
 GERHARD'S README -> README.txt
+
+![Cocotron and Crossover](Documentation/cocotron-launch-sierra.gif)
+
+![Crossover and Cocotron](Documentation/cocotron-crossover.gif)
+
+![Cocotron NSOpenGLView](Documentation/Xcode-8.2.1-cocotron-NSOpenGLView.png)
+
+![Cocotron NSTextView](Documentation/Xcode-8.2.1-cocotron-NSTextView.png)
+
 
 ---
 
